@@ -2,4 +2,4 @@ mkdir 123
 cd 123
 git init
 add issue
-
+pull data
