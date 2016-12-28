@@ -3,3 +3,4 @@ cd 123
 git init
 add issue
 branch test issue1 issue2
+pull data
