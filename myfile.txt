@@ -4,3 +4,4 @@ git init
 add issue
 branch test issue1 issue2
 pull data
+edit 123456
